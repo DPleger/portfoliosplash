@@ -1,0 +1,10 @@
+{
+  "appId": "portfolio",
+  "apiKey": "aa9b9cc48473ade8e0f01b686b427fb2a1fb32fc5ff26c611c923e7fe650ffcd",
+  "public": "./",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}

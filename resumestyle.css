@@ -1,0 +1,375 @@
+@media only screen and (min-width: 1024px) {
+* {
+	color: #7FE0FF;
+}
+
+div.allstack {
+	margin: 0px 0px 0px 165px;
+	padding: 0px;
+}
+
+ul.pythonstack {
+	margin-left: 400px;
+	float: left;
+}
+
+ul.rubystack {
+	float: left;
+}
+
+ul.meanstack {
+	float: left;
+}
+
+ul.htmlstack {
+	float: left;
+}
+
+ul.paintstack {
+	float: left;
+	padding-top: 10px;
+}
+
+h2 {
+	font-family: Garamond;
+	color: #192126;
+	text-decoration: underline;
+	font-size: 40px;
+	text-align: center;
+	margin: 0px 450px;
+	background-color: rgba(24, 148, 184, 0.5);
+	box-shadow: 10px 10px 1px #8EBEDB;
+	margin-bottom: 25px;
+}
+
+div.techframe {
+	display: inline;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+
+div.techframe img{
+	display: block-inline;
+	border-radius: 30%;
+	max-height: 100px;
+	max-width: 100px;
+	margin-left: 385px;
+}
+
+div.tool {
+	display: inline;
+	margin: 0px 0px 0px 0px;
+	padding: 0px;
+}
+
+div.tool img{
+	display: block-inline;
+	border-radius: 30%;
+	max-height: 100px;
+	max-width: 100px;
+}
+
+div.mypic {
+	display: block-inline;
+	margin: 0px 500px;
+	height: 50%;
+	width: 50%;
+
+}
+
+div.mypic img{
+	display: block-inline;
+	border: 1px solid black;
+	margin-left: 30%;
+	border-radius: 50%;
+	height: 30%;
+	width: 30%;
+}
+
+div.wrapper {
+	padding: 55px;
+	border: 4px solid black;
+	background-image: url("DSC03352.jpg");
+	background-color: #202261;
+	height: 100%;
+	width: 100%;
+}
+
+div.biowrap {
+	margin: 0px 275px;
+	background-color: rgba(24, 148, 184, 0.75);
+	box-shadow: 10px 10px 1px #8EBEDB;
+}
+
+p.bio {
+	margin: 5px;
+	font-family: Helvetica;
+	color: #192126;
+	font-size: 18px;
+	text-align: center;
+}
+
+div.footer {
+	margin: 450px;
+}
+
+span {
+	color: black;
+	background-color: rgba(24, 148, 184, 0.75);
+	margin-left: 20px;
+}
+}
+
+/*********************************************************************************************
+SMALL SCREEN
+**********************************************************************************************/ 
+
+@media only screen and (min-width: 481px) {
+* {
+	color: #7FE0FF;
+}
+
+div.allstack {
+	margin: 0px 0px 0px 165px;
+	padding: 0px;
+}
+
+ul.pythonstack {
+	margin-left: 400px;
+	float: left;
+}
+
+ul.rubystack {
+	float: left;
+}
+
+ul.meanstack {
+	float: left;
+}
+
+ul.htmlstack {
+	float: left;
+}
+
+ul.paintstack {
+	float: left;
+	padding-top: 10px;
+}
+
+h2 {
+	font-family: Garamond;
+	color: #192126;
+	text-decoration: underline;
+	font-size: 40px;
+	text-align: center;
+	margin: 0px 450px;
+	background-color: rgba(24, 148, 184, 0.5);
+	box-shadow: 10px 10px 1px #8EBEDB;
+	margin-bottom: 25px;
+}
+
+div.techframe {
+	display: inline;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+
+div.techframe img{
+	display: block-inline;
+	border-radius: 30%;
+	max-height: 100px;
+	max-width: 100px;
+	margin-left: 385px;
+}
+
+div.tool {
+	display: inline;
+	margin: 0px 0px 0px 0px;
+	padding: 0px;
+}
+
+div.tool img{
+	display: block-inline;
+	border-radius: 30%;
+	max-height: 100px;
+	max-width: 100px;
+}
+
+div.mypic {
+	display: block-inline;
+	margin: 0px 500px;
+	height: 50%;
+	width: 50%;
+
+}
+
+div.mypic img{
+	display: block-inline;
+	border: 1px solid black;
+	margin-left: 30%;
+	border-radius: 50%;
+	height: 30%;
+	width: 30%;
+}
+
+div.wrapper {
+	padding: 55px;
+	border: 4px solid black;
+	background-image: url("DSC03352.jpg");
+	background-color: #202261;
+	height: 100%;
+	width: 100%;
+}
+
+div.biowrap {
+	margin: 0px 275px;
+	background-color: rgba(24, 148, 184, 0.75);
+	box-shadow: 10px 10px 1px #8EBEDB;
+}
+
+p.bio {
+	margin: 5px;
+	font-family: Helvetica;
+	color: #192126;
+	font-size: 18px;
+	text-align: center;
+}
+
+div.footer {
+	margin: 450px;
+}
+
+span {
+	color: black;
+	background-color: rgba(24, 148, 184, 0.75);
+	margin-left: 20px;
+}
+}
+
+
+/*********************************************************************************************
+MOBILE SCREEN
+**********************************************************************************************/ 
+
+
+@media only screen and (max-width: 480px) {
+* {
+	color: #7FE0FF;
+}
+
+img {
+	max-height: 100px;
+	max-width: 100px;
+}
+
+
+div.allstack {
+	display: block;
+	margin: 0px 0px 0px 0px;
+	padding: 0px;
+}
+
+ul.pythonstack {
+	float: left;
+}
+
+ul.rubystack {
+	float: left;
+}
+
+ul.meanstack {
+	float: left;
+}
+
+ul.htmlstack {
+	float: left;
+}
+
+ul.paintstack {
+	float: left;
+	padding-top: 10px;
+}
+
+h2 {
+	font-family: Garamond;
+	color: #192126;
+	text-decoration: underline;
+	font-size: 20px;
+	text-align: center;
+	margin: 0px;
+	background-color: rgba(24, 148, 184, 0.5);
+	box-shadow: 10px 10px 1px #8EBEDB;
+	margin-bottom: 25px;
+}
+
+div.techframe {
+	display: inline;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+
+div.techframe img{
+	display: block-inline;
+	border-radius: 30%;
+	max-height: 100px;
+	max-width: 100px;
+	margin-left: 130px;
+}
+
+div.tool {
+	display: block;
+	margin: 0px 0px 0px 0px;
+	padding: 0px;
+}
+
+div.tool img{
+	display: none;
+}
+
+div.mypic {
+	display: block-inline;
+	margin: 0px 50px;
+
+}
+
+div.mypic img{
+	display: block-inline;
+	border: 1px solid black;
+	margin-left: 30%;
+	border-radius: 50%;
+}
+
+div.wrapper {
+	padding: 55px;
+	border: 4px solid black;
+	background-image: url("DSC03352.jpg");
+	background-color: #202261;
+	height: 100%;
+	width: 100%;
+}
+
+div.biowrap {
+	margin: 0px 100px;
+	background-color: rgba(24, 148, 184, 0.75);
+	box-shadow: 10px 10px 1px #8EBEDB;
+}
+
+p.bio {
+	margin: 5px;
+	font-family: Helvetica;
+	color: #192126;
+	font-size: 18px;
+	text-align: center;
+}
+
+div.footer {
+	margin: 450px;
+}
+
+span {
+	display: none;
+}
+}

@@ -1,0 +1,40 @@
+h2 {
+	color: #89CFFF;
+	alignment: center;
+	margin-left: 20%;
+}
+
+h3 {
+	color: #6BA1C7;
+	alighment: center;
+	margin-left: 20%;
+}
+
+h4 {
+	margin-left: 15%;
+	color: #4475AB;
+}
+
+div.wrapper {
+	background-color: #202261;
+	height:100%;
+	width:100%;
+}
+
+div.frame {
+	display: block;
+}
+
+img {
+	margin-left: 20%;
+	max-height: 800px;
+	max-width: 800px;
+	border: 3px solid black;
+	box-shadow: 10px 10px 1px #2A2B2B;
+}
+
+p {
+	margin-left: 20%;
+	color: #87C4C7;
+	text-decoration: underline;
+}
